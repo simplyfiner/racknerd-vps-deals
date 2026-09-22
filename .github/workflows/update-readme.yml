@@ -1,0 +1,54 @@
+name: Update README
+
+on:
+  schedule:
+    # 每天 UTC 02:00 执行
+    - cron: "38 2 * * 1"
+
+  # 支持在 Actions 页面手动执行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Download README
+        run: |
+          curl -fsSL --retry 3 \
+            --connect-timeout 10 \
+            --max-time 60 \
+            "https://tgidx.335772.xyz/markdown/racknerd-landing.md" \
+            -o /tmp/README.md
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if cmp -s /tmp/README.md README.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "README.md is already up to date."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "README.md has changed."
+          fi
+
+      - name: Update README
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          cp /tmp/README.md README.md
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "chore: update README"
+          git push
