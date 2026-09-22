@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">RackNerd VPS 特惠 — 年付 $10.60 起</h1>
-<p align="center">20 个数据中心 · 1Gbps 端口 · RAID-10 SSD · 全根权限 · 续费不涨价</p>
+<h1 align="center">RackNerd VPS 特惠 — 年付 $21.99 起</h1>
+<p align="center">20 个数据中心 · 1Gbps 端口 · SSD 存储 · 全根权限 · VPS / 共享主机 / 代理主机</p>
 
 <p align="center">
   <a href="https://my.racknerd.com/aff.php?aff=21282">
@@ -19,7 +19,7 @@
 
 - **运营多年的头部低价厂商**：2019 年成立，专注年付低价 KVM VPS，曾上榜 Inc. 5000 增长榜
 - **20 个机房，亚洲优化节点在列**：覆盖北美、欧洲、亚洲，洛杉矶 DC-02 是亚洲优化节点，国内访问延迟低
-- **KVM + 1Gbps + RAID-10**：KVM 虚拟化资源独立，1Gbps 端口带宽，SSD 采用 RAID-10 存储
+- **KVM + 1Gbps + SSD**：KVM 虚拟化资源独立，1Gbps 端口带宽，全系 SSD 存储
 - **全根权限 + 免费 IPv4**：每台 VPS 完整 root 权限，附送 1 个独立 IPv4
 - **部署即时**：支付完成后自动开通，IP、root 密码、面板地址直接发到邮箱
 - **3 天退款保证**：开通后 3 天内不满意可申请退款
@@ -30,19 +30,19 @@
   </a>
 </p>
 
-## 现在可以抢：新年特惠套餐
+## KVM VPS 套餐
 
-不想等黑五，这批新年特惠现在就能下单，中高档配置甚至比黑五给得更多。
+官网现售的年付 KVM VPS 全部档位，点「抢购」直达对应套餐的下单页。
 
-| 套餐 | vCPU | 内存 | SSD | 月流量 | 端口 | 价格（年付，续费同价） |
+| 套餐 | vCPU | 内存 | SSD | 月流量 | 价格（年付） | |
 |---|---|---|---|---|---|---|
-| 1GB KVM VPS | 1 核 | 1 GB | 24 GB RAID-10 | 2 TB | 1Gbps | **$11.29/年** |
-| 2GB KVM VPS | 1 核 | 2 GB | 40 GB RAID-10 | 3.5 TB | 1Gbps | **$18.29/年** |
-| 3.5GB KVM VPS | 2 核 | 3.5 GB | 65 GB RAID-10 | 7 TB | 1Gbps | **$32.49/年** |
-| 4GB KVM VPS | 3 核 | 4 GB | 105 GB RAID-10 | 9 TB | 1Gbps | **$43.88/年** |
-| 6GB KVM VPS | 4 核 | 6 GB | 140 GB RAID-10 | 12 TB | 1Gbps | **$59.99/年** |
+| 1GB KVM VPS | 1 核 | 1 GB | 20 GB | 3 TB | **$21.99/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=952) |
+| 2GB KVM VPS | 2 核 | 2 GB | 35 GB | 5 TB | **$35.99/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=953) |
+| 4GB KVM VPS | 3 核 | 4 GB | 60 GB | 7 TB | **$59.99/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=954) |
+| 6GB KVM VPS | 6 核 | 6 GB | 100 GB | 12 TB | **$89.99/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=955) |
+| 8GB KVM VPS | 7 核 | 8 GB | 150 GB | 20 TB | **$119.99/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=956) |
 
-> 洛杉矶 DC-02（亚洲优化机房）对 2GB 以上套餐已重新开放库存。
+> 续费价格以官网结账页显示为准，下单前建议留意一下。
 
 <p align="center">
   <a href="https://my.racknerd.com/aff.php?aff=21282">
@@ -62,16 +62,38 @@
 | 6GB KVM VPS | 5 核 | 6 GB | 100 GB RAID-10 | 10 TB | 1Gbps | **$44.98/年** |
 | 8GB KVM VPS | 6 核 | 8 GB | 150 GB RAID-10 | 20 TB | 1Gbps | **$62.49/年** |
 
-> 去年最低档 1GB 只要 $10.60/年，但库存有限，开抢几小时内低价机房常被抢空。只想要入门档、能等的，可以留到黑五当天再下手；想要中高档配置，新年特惠不一定比黑五差。
+> 去年最低档 1GB 只要 $10.60/年，但库存有限，开抢几小时内低价机房常被抢空。只想要入门档、能等的，可以留到黑五当天再下手；现在就要用，直接从上面的 KVM VPS 套餐下单。
 
 ## 怎么选：按用途对号入座
 
-| 档位 | 价格区间 | 适合场景 |
+| 档位 | 价格 | 适合场景 |
 |---|---|---|
-| 1GB | $10.60–$11.29/年 | 纯静态站、DNS 中转、轻量代理、Linux 练手 |
-| 2GB–2.5GB | $18.29–$18.66/年 | WordPress 个人站、单容器 Docker、测试环境、Telegram bot（**性价比甜点**） |
-| 3.5GB–4GB | $29.98–$43.88/年 | 多站点托管、MySQL + Nginx + 应用三件套、两三个 Docker 容器 |
-| 6GB–8GB | $44.98–$62.49/年 | 多服务并行、编译构建节点、小型生产部署 |
+| 1GB | $21.99/年 | 纯静态站、DNS 中转、轻量代理、Linux 练手 |
+| 2GB | $35.99/年 | WordPress 个人站、单容器 Docker、测试环境、Telegram bot |
+| 4GB | $59.99/年 | 多站点托管、MySQL + Nginx + 应用三件套、两三个 Docker 容器 |
+| 6GB–8GB | $89.99–$119.99/年 | 多服务并行、编译构建节点、小型生产部署 |
+
+只是想放几个网站、不想自己管服务器？往下看共享主机和代理主机套餐。
+
+## 共享主机套餐
+
+带 cPanel 面板，不用自己管服务器，适合纯建站、不想碰命令行的场景。
+
+| 套餐 | 存储 | 流量 | 域名数 | 面板 | 价格（年付） | |
+|---|---|---|---|---|---|---|
+| 30 GB 共享主机 | 30 GB NVMe | 3 TB | 2 个域名 | cPanel | **$10.49/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=933) |
+| 85 GB 共享主机 | 85 GB NVMe | 10 TB | 10 个域名 | cPanel | **$24.99/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=934) |
+| 200 GB 共享主机 | 200 GB NVMe | 30 TB | 不限域名 | cPanel | **$59.00/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=935) |
+
+## 代理主机套餐
+
+cPanel/WHM 面板，可以自己开多个 cPanel 账户分给客户或朋友，适合做二级代理。
+
+| 套餐 | 存储 | 流量 | cPanel 账户数 | 面板 | 价格（年付） | |
+|---|---|---|---|---|---|---|
+| 75 GB 代理主机 | 75 GB NVMe | 2.5 TB | 3 个 | cPanel/WHM | **$34.88/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=936) |
+| 110 GB 代理主机 | 110 GB NVMe | 5 TB | 7 个 | cPanel/WHM | **$64.88/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=937) |
+| 180 GB 代理主机 | 180 GB NVMe | 9 TB | 12 个 | cPanel/WHM | **$94.88/年** | [抢购 →](https://my.racknerd.com/aff.php?aff=21282&pid=938) |
 
 ## 下单流程
 
@@ -97,15 +119,15 @@
 </details>
 
 <details>
-<summary>黑五套餐和新年特惠套餐，哪个更划算？</summary>
+<summary>现价和黑五价，哪个更划算？</summary>
 <br>
-黑五套餐价格更低，但配置偏向"低配拉低价格下限"；新年特惠在 4GB 以上档位反而更慷慨。要最低价入门就等黑五，要中高档配置现在的新年特惠不一定比黑五差。
+上面列出的是官网现售的常规年付价；黑色星期五当天通常会放出专门的限时套餐，价格明显更低（去年最低档 1GB 只要 $10.60/年）。想要最低价，等 11 月 27 日；现在就要用，直接从上面的套餐下单。
 </details>
 
 <details>
 <summary>续费会不会涨价？</summary>
 <br>
-不会。黑五、新年这类特惠套餐都是价格锁终身，今天下单多少钱，续费还是同一个数字。
+以官网结账页显示的续费价格为准，下单前留意一下订单详情里的续费说明。
 </details>
 
 <details>
