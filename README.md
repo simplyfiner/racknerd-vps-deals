@@ -135,20 +135,3 @@ KVM VPS 特价套餐本身已经是底价，不再叠加折扣码。官方长期
 </p>
 
 <p align="center"><strong><a href="https://my.racknerd.com/aff.php?aff=21282">前往 RackNerd 官网 →</a></strong></p>
-
-<sub>本页面包含推广链接，通过本页链接注册或下单不会增加您的费用，但可能会为本站带来少量推广返佣，感谢支持。具体配置、价格及活动时间以 RackNerd 官网下单页为准。</sub>
-
-<details>
-<summary>更多推广素材尺寸（备用，按需取用）</summary>
-
-| 尺寸 | 用途 | 代码 |
-|---|---|---|
-| 125×125 | 小方块 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/125x125.gif" width="125" height="125"></a>` |
-| 160×600 | 宽幅侧边 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/160x600.gif" width="160" height="600"></a>` |
-| 250×250 | 方块 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/250x250.gif" width="250" height="250"></a>` |
-| 300×600 | 半页 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/300x600.gif" width="300" height="600"></a>` |
-| 320×50 | 移动端横幅 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/320x50.gif" width="320" height="50"></a>` |
-| 320×100 | 移动端大横幅 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/320x100.gif" width="320" height="100"></a>` |
-| 336×280 | 大矩形 | `<a href="https://my.racknerd.com/aff.php?aff=21282"><img src="https://racknerd.com/banners/336x280.gif" width="336" height="280"></a>` |
-
-</details>
